@@ -1,6 +1,4 @@
-Here's a comprehensive README.md for your @rbxts/react-router package:
 
-```markdown
 # @rbxts/react-router
 
 A lightweight and type-safe React Router implementation specifically designed for Roblox TypeScript (@rbxts/react).
