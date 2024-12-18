@@ -1,0 +1,53 @@
+{
+  "name": "@rbxts/react-router",
+  "version": "1.1.0",
+  "description": "React Router implementation for Roblox TypeScript",
+  "main": "out/init.luau",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm run build",
+    "format": "prettier --write \"src/**/*.{ts,tsx}\"",
+    "lint": "eslint \"src/**/*.{ts,tsx}\" --fix"
+  },
+  "keywords": [
+    "roblox-ts",
+    "react",
+    "router",
+    "rbxts",
+    "roblox"
+  ],
+  "author": "Harihar Nautiyal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harihar-nautiyal/rbxts-react-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harihar-nautiyal/rbxts-react-router/issues"
+  },
+  "homepage": "https://github.com/harihar-nautiyal/rbxts-react-router#readme",
+  "peerDependencies": {
+    "@rbxts/react-roblox": "^17.2.3",
+    "@rbxts/react": "^17.2.3",
+    "@rbxts/types": "^1.0.813"
+  },
+  "devDependencies": {
+    "@rbxts/compiler-types": "^3.0.0-types.0",
+    "@rbxts/types": "^1.0.813",
+    "@typescript-eslint/eslint-plugin": "^8.18.1",
+    "@typescript-eslint/parser": "^8.18.1",
+    "eslint": "^9.17.0",
+    "prettier": "^3.4.2",
+    "roblox-ts": "^3.0.0",
+    "typescript": "^5.7.2"
+  },
+  "files": [
+    "out",
+    "types",
+    "README.md",
+    "LICENSE"
+  ]
+}
