@@ -1,6 +1,3 @@
-Here's a comprehensive README.md for your @rbxts/react-router package:
-
-```markdown
 # @rbxts/react-router
 
 A lightweight and type-safe React Router implementation specifically designed for Roblox TypeScript (@rbxts/react).
@@ -183,12 +180,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT © [Harihar Nautiyal](https://github.com/hariharnautiyal)
+MIT © [Harihar Nautiyal](https://github.com/harihar-nautiyal)
 
 ## Author
 
 **Harihar Nautiyal**
-- GitHub: [@hariharnautiyal](https://github.com/hariharnautiyal)
+- GitHub: [@harihar-nautiyal](https://github.com/harihar-nautiyal)
 - npm: [@rbxts/react-router](https://www.npmjs.com/package/@rbxts/react-router)
 
 ## Changelog
@@ -204,7 +201,7 @@ MIT © [Harihar Nautiyal](https://github.com/hariharnautiyal)
 
 If you found this project useful, please consider giving it a ⭐️ on GitHub!
 
-For issues and feature requests, please [create an issue](https://github.com/hariharnautiyal/rbxts-react-router/issues) on GitHub.
+For issues and feature requests, please [create an issue](https://github.com/harihar-nautiyal/rbxts-react-router/issues) on GitHub.
 ```
 
 This README provides:
